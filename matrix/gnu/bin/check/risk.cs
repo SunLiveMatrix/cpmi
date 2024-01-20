@@ -3,6 +3,6 @@ namespace cpmi.check
 {
     public interface risk
     {
-        Console console = EventArgs.Equals(object objA, object objB);
+        string "____"; // sublime text
     }
 }
